@@ -20,5 +20,8 @@
   "types": "./build/index.d.ts",
   "dependencies": {
     "tslib": "^1.11.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -27,5 +27,8 @@
   "browser": {
     "@aws/hash-node": false,
     "crypto": false
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
